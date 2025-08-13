@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondooo
+    uniqueID: 3872322511
+    locked: 0
+  - name: 1Fondo
+    uniqueID: 4273929259
+    locked: 0
+  - name: 2arbol
+    uniqueID: 3554318851
+    locked: 0
+  - name: 3arbol2
+    uniqueID: 3426441011
+    locked: 0
+  - name: 4arbol3
+    uniqueID: 2605696575
+    locked: 0
+  - name: Player
+    uniqueID: 1263069531
+    locked: 0
+  m_RenderingLayers:
+  - Default

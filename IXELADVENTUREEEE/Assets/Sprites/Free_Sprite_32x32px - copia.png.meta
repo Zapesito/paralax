@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 8c02112b22e146c4b87d37284e1c6745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4326667478358708564
+    second: Free_Sprite_32x32px - copia_0
+  - first:
+      213: -8513668335740264068
+    second: Free_Sprite_32x32px - copia_1
+  - first:
+      213: -8895292237231096587
+    second: Free_Sprite_32x32px - copia_2
+  - first:
+      213: -2922765715748557071
+    second: Free_Sprite_32x32px - copia_3
+  - first:
+      213: 5326519175848221063
+    second: Free_Sprite_32x32px - copia_4
+  - first:
+      213: 6139965704209793770
+    second: Free_Sprite_32x32px - copia_5
+  - first:
+      213: 4761945473291204438
+    second: Free_Sprite_32x32px - copia_6
+  - first:
+      213: 6170628162707222340
+    second: Free_Sprite_32x32px - copia_7
+  - first:
+      213: -209280336036135761
+    second: Free_Sprite_32x32px - copia_8
+  - first:
+      213: -6430401152160180841
+    second: Free_Sprite_32x32px - copia_9
+  - first:
+      213: -5527454525506539185
+    second: Free_Sprite_32x32px - copia_10
+  - first:
+      213: 3973973604795232815
+    second: Free_Sprite_32x32px - copia_11
+  - first:
+      213: -3181677088537869337
+    second: Free_Sprite_32x32px - copia_12
+  - first:
+      213: -3647975232651758198
+    second: Free_Sprite_32x32px - copia_13
+  - first:
+      213: 5286270214735586879
+    second: Free_Sprite_32x32px - copia_14
+  - first:
+      213: 8127039971688738459
+    second: Free_Sprite_32x32px - copia_15
+  - first:
+      213: 8265233414216815605
+    second: Free_Sprite_32x32px - copia_16
+  - first:
+      213: -3319302402035908254
+    second: Free_Sprite_32x32px - copia_17
+  - first:
+      213: 98761110027565469
+    second: Free_Sprite_32x32px - copia_18
+  - first:
+      213: -2104450722110084402
+    second: Free_Sprite_32x32px - copia_19
+  - first:
+      213: -6340511789606689672
+    second: Free_Sprite_32x32px - copia_20
+  - first:
+      213: -9048502730137583688
+    second: Free_Sprite_32x32px - copia_21
+  - first:
+      213: -2315698231400753186
+    second: Free_Sprite_32x32px - copia_22
+  - first:
+      213: 230652125075159534
+    second: Free_Sprite_32x32px - copia_23
+  - first:
+      213: 5818413185692842044
+    second: Free_Sprite_32x32px - copia_24
+  - first:
+      213: -8735648746313723822
+    second: Free_Sprite_32x32px - copia_25
+  - first:
+      213: 5992924555965664988
+    second: Free_Sprite_32x32px - copia_26
+  - first:
+      213: -4709492036431494715
+    second: Free_Sprite_32x32px - copia_27
+  - first:
+      213: 4193594922385779208
+    second: Free_Sprite_32x32px - copia_28
+  - first:
+      213: 2476106352171523926
+    second: Free_Sprite_32x32px - copia_29
+  - first:
+      213: 8030672083019269815
+    second: Free_Sprite_32x32px - copia_30
+  - first:
+      213: -8494846555765778584
+    second: Free_Sprite_32x32px - copia_31
+  - first:
+      213: -3087063046421965878
+    second: Free_Sprite_32x32px - copia_32
+  - first:
+      213: -6760096359446493123
+    second: Free_Sprite_32x32px - copia_33
+  - first:
+      213: -7891451841407701520
+    second: Free_Sprite_32x32px - copia_34
+  - first:
+      213: -2412140663227984312
+    second: Free_Sprite_32x32px - copia_35
+  - first:
+      213: 4474106888794528681
+    second: Free_Sprite_32x32px - copia_36
+  - first:
+      213: 247467866817119673
+    second: Free_Sprite_32x32px - copia_37
+  - first:
+      213: 1437004427993904077
+    second: Free_Sprite_32x32px - copia_38
+  - first:
+      213: 953443554774315883
+    second: Free_Sprite_32x32px - copia_39
+  - first:
+      213: 3331443997623487061
+    second: Free_Sprite_32x32px - copia_40
+  - first:
+      213: 8107465073359092203
+    second: Free_Sprite_32x32px - copia_41
+  - first:
+      213: 1513859524208995425
+    second: Free_Sprite_32x32px - copia_42
+  - first:
+      213: -1086410019810401802
+    second: Free_Sprite_32x32px - copia_43
+  - first:
+      213: -379145589559296125
+    second: Free_Sprite_32x32px - copia_44
+  - first:
+      213: -7373700264827606740
+    second: Free_Sprite_32x32px - copia_45
+  - first:
+      213: -225310319269349309
+    second: Free_Sprite_32x32px - copia_46
+  - first:
+      213: 9078336472508588149
+    second: Free_Sprite_32x32px - copia_47
+  - first:
+      213: 7272800161150193443
+    second: Free_Sprite_32x32px - copia_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea1332ad694f3c0800000000000000
+      internalID: -4326667478358708564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71e5b881cf59d980800000000000000
+      internalID: -8513668335740264068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcfc8ae6d29d8480800000000000000
+      internalID: -8895292237231096587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feed1721104077d0800000000000000
+      internalID: -2922765715748557071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7895db528f89be940800000000000000
+      internalID: 5326519175848221063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2818ce64a853550800000000000000
+      internalID: 6139965704209793770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573d479d24d51240800000000000000
+      internalID: 4761945473291204438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6f2fde9972a550800000000000000
+      internalID: 6170628162707222340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac7718a4ac781df0800000000000000
+      internalID: -209280336036135761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795da3ac830a2c6a0800000000000000
+      internalID: -6430401152160180841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41be0f05698a43b0800000000000000
+      internalID: -5527454525506539185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22399440f3662730800000000000000
+      internalID: 3973973604795232815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e383b39b8968d3d0800000000000000
+      internalID: -3181677088537869337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857e5c8ad9cf5dc0800000000000000
+      internalID: -3647975232651758198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ea00a0ca9c5940800000000000000
+      internalID: 5286270214735586879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e68eb9bcb09c070800000000000000
+      internalID: 8127039971688738459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f31518cff104b270800000000000000
+      internalID: 8265233414216815605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 68
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618c804d087fe1d0800000000000000
+      internalID: -3319302402035908254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99f0d0d4bede5100800000000000000
+      internalID: 98761110027565469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6055d73d7bc2e0800000000000000
+      internalID: -2104450722110084402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 96
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874215eee1af108a0800000000000000
+      internalID: -6340511789606689672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3ffc35b24d6280800000000000000
+      internalID: -9048502730137583688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79b564abcfcdfd0800000000000000
+      internalID: -2315698231400753186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93bcdb2e0733300800000000000000
+      internalID: 230652125075159534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 80
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38bba117f72fb050800000000000000
+      internalID: 5818413185692842044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 70
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2505269afbdb4c680800000000000000
+      internalID: -8735648746313723822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 65
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8c0cb1252b2350800000000000000
+      internalID: 5992924555965664988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 64
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c148ffd1f584aeb0800000000000000
+      internalID: -4709492036431494715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aafa00d54a23a30800000000000000
+      internalID: 4193594922385779208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f954bbb95ec5220800000000000000
+      internalID: 2476106352171523926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 33
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6820016bda27f60800000000000000
+      internalID: 8030672083019269815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867512ea01e3c1a80800000000000000
+      internalID: -8494846555765778584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac398c6e38c8825d0800000000000000
+      internalID: -3087063046421965878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c7c77d205f22a0800000000000000
+      internalID: -6760096359446493123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdaac66c5eeb7290800000000000000
+      internalID: -7891451841407701520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846550cc8da568ed0800000000000000
+      internalID: -2412140663227984312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd9b1b288371e30800000000000000
+      internalID: 4474106888794528681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b545f6b6be2f6300800000000000000
+      internalID: 247467866817119673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37d37e9e341f310800000000000000
+      internalID: 1437004427993904077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6375bb8cdf4b3d00800000000000000
+      internalID: 953443554774315883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a84734aaaab3e20800000000000000
+      internalID: 3331443997623487061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9747e6780838070800000000000000
+      internalID: 8107465073359092203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca15c673f420510800000000000000
+      internalID: 1513859524208995425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a6c0d7db4ce0f0800000000000000
+      internalID: -1086410019810401802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f792858110dbaf0800000000000000
+      internalID: -379145589559296125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c292fba3daa5ba990800000000000000
+      internalID: -7373700264827606740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34878b755798fdcf0800000000000000
+      internalID: -225310319269349309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570e8533ceabcfd70800000000000000
+      internalID: 9078336472508588149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Sprite_32x32px - copia_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc2cfa63d2ee460800000000000000
+      internalID: 7272800161150193443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a4cc587fd00b9f4089ad605e8acdf56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Free_Sprite_32x32px - copia_0: -4326667478358708564
+      Free_Sprite_32x32px - copia_1: -8513668335740264068
+      Free_Sprite_32x32px - copia_10: -5527454525506539185
+      Free_Sprite_32x32px - copia_11: 3973973604795232815
+      Free_Sprite_32x32px - copia_12: -3181677088537869337
+      Free_Sprite_32x32px - copia_13: -3647975232651758198
+      Free_Sprite_32x32px - copia_14: 5286270214735586879
+      Free_Sprite_32x32px - copia_15: 8127039971688738459
+      Free_Sprite_32x32px - copia_16: 8265233414216815605
+      Free_Sprite_32x32px - copia_17: -3319302402035908254
+      Free_Sprite_32x32px - copia_18: 98761110027565469
+      Free_Sprite_32x32px - copia_19: -2104450722110084402
+      Free_Sprite_32x32px - copia_2: -8895292237231096587
+      Free_Sprite_32x32px - copia_20: -6340511789606689672
+      Free_Sprite_32x32px - copia_21: -9048502730137583688
+      Free_Sprite_32x32px - copia_22: -2315698231400753186
+      Free_Sprite_32x32px - copia_23: 230652125075159534
+      Free_Sprite_32x32px - copia_24: 5818413185692842044
+      Free_Sprite_32x32px - copia_25: -8735648746313723822
+      Free_Sprite_32x32px - copia_26: 5992924555965664988
+      Free_Sprite_32x32px - copia_27: -4709492036431494715
+      Free_Sprite_32x32px - copia_28: 4193594922385779208
+      Free_Sprite_32x32px - copia_29: 2476106352171523926
+      Free_Sprite_32x32px - copia_3: -2922765715748557071
+      Free_Sprite_32x32px - copia_30: 8030672083019269815
+      Free_Sprite_32x32px - copia_31: -8494846555765778584
+      Free_Sprite_32x32px - copia_32: -3087063046421965878
+      Free_Sprite_32x32px - copia_33: -6760096359446493123
+      Free_Sprite_32x32px - copia_34: -7891451841407701520
+      Free_Sprite_32x32px - copia_35: -2412140663227984312
+      Free_Sprite_32x32px - copia_36: 4474106888794528681
+      Free_Sprite_32x32px - copia_37: 247467866817119673
+      Free_Sprite_32x32px - copia_38: 1437004427993904077
+      Free_Sprite_32x32px - copia_39: 953443554774315883
+      Free_Sprite_32x32px - copia_4: 5326519175848221063
+      Free_Sprite_32x32px - copia_40: 3331443997623487061
+      Free_Sprite_32x32px - copia_41: 8107465073359092203
+      Free_Sprite_32x32px - copia_42: 1513859524208995425
+      Free_Sprite_32x32px - copia_43: -1086410019810401802
+      Free_Sprite_32x32px - copia_44: -379145589559296125
+      Free_Sprite_32x32px - copia_45: -7373700264827606740
+      Free_Sprite_32x32px - copia_46: -225310319269349309
+      Free_Sprite_32x32px - copia_47: 9078336472508588149
+      Free_Sprite_32x32px - copia_48: 7272800161150193443
+      Free_Sprite_32x32px - copia_5: 6139965704209793770
+      Free_Sprite_32x32px - copia_6: 4761945473291204438
+      Free_Sprite_32x32px - copia_7: 6170628162707222340
+      Free_Sprite_32x32px - copia_8: -209280336036135761
+      Free_Sprite_32x32px - copia_9: -6430401152160180841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
